@@ -1,3 +1,8 @@
+> 📦 **已归档（Archived — 仅作参考）**
+> 本仓库已收入归档仓 **game-prototypes**（代码与完整 git 历史一并迁入，原仓冻结不再开发）。
+> 历史分支见归档仓的 `archive/life-reset-simulator` 分支；活跃维护请前往 **game-prototypes**。
+> _This repo is archived into game-prototypes; development continues there. Do not commit here._
+
 # Life Reset Simulator
 
 人生重开模拟器：MBTI 风格出身选择 + 王权决策树，采用“本体 + JSON 内容库 + 决策树模块”设计的桌面模拟游戏。
